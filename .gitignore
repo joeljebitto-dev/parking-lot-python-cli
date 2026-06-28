@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+parking_lot/*.db
+*.db-wal
+*.db-shm
+*.db-journal
